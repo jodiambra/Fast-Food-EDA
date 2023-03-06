@@ -1,0 +1,17 @@
+[theme]
+primaryColor="#028105"
+backgroundColor="#e1e2d7"
+secondaryBackgroundColor="#efac4d"
+textColor="#ec2c01"
+font="serif"
+
+[server]
+headless = true
+port = 10000
+
+[browser]
+serverAddress = "0.0.0.0"
+serverPort = 10000
+
+
+
