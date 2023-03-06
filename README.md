@@ -1,4 +1,5 @@
 # Fast-Food-EDA
+[streamlit-Home-2023-03-05-23-03-08.webm](https://user-images.githubusercontent.com/115895428/223022121-372efe76-6608-47d1-97b8-7cb3217c0f7f.webm)
 
 ## Purpose
 The purpose of this project is to conduct exploratory data analysis on american fast food chains, and compare those that are doing well, with those that are struggling. 
