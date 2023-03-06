@@ -68,7 +68,7 @@ st.title('')
 st.subheader('Top Number of Stores')
 number = st.slider('Selection', min_value=10, max_value=50, step=10)
 st.write(px.bar(df.sort_values(by='2021_total_units', ascending=False).head(number), x='name', y='2021_total_units', title='Top '+str(number)+ ' Total Number of Stores',
-                 labels={'total_stores': 'Number of Stores'}, height=700, width=900, color='name'))
+                 labels={'total_stores': 'Number of Stores'}, height=800, width=1300, color='name'))
 with st.expander('Details'):
     st.write('Subway chains outnumber the other fast food chains in the total number of locations in 2021. They are followed by',
              'Starbucks and McDonald\'s locations.')
