@@ -11,4 +11,4 @@ When it comes to unit sales, Chick-Fil-A makes the most, followed by Raising Can
 
 We then compared the ratio of franchises to company owned units. Chains such as Raising Cane's and Panda Express had the highest ration of company owned units, while Dairy Queen and Tropical Smoothie Cafe had the highest ratio of franchises. 
 
-## Website can be accessed at : [Website](https://fast-food-eda.onrender.com)
+## Website can be accessed at : [Fast Food](https://fast-food-eda.onrender.com)
